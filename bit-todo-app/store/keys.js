@@ -1,0 +1,9 @@
+export const GET_TODOS = 'todo/getTodos' // named export
+export const SET_LOADING = 'todo/setLoading' // named export
+export const SET_ERROR = 'todo/setError' // named export
+export const CREATE_TODO = 'todo/createTodo' // named export
+export const DELETE_TODO = 'todo/deleteTodo'
+export const EDIT_TODO = 'todo/editTodo'
+export const CREATE_NEW_TODO = 'todo/createNewTodo'
+export const SEARCH_BY_TITLE = 'todo/searchByTitle'
+export const CLEAR_SEARCH = 'todo/clearSearch'
