@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "bit-todo-app-ifan",
+    "slug": "bit-todo-app-ifan",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "bit-todo-app"
+}
